@@ -1,0 +1,1 @@
+data class PostModel (val plastname:String, val pextcode:String)
